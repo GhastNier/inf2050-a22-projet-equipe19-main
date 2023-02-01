@@ -1,0 +1,24 @@
+{
+  "declarationTraitees": 4,
+  "declarationCompletes": 0,
+  "declarationIncompletesOuInvalides": 1,
+  "declarationSexeHommes": 0,
+  "declarationSexeFemmes": 3,
+  "declarationSexeInconnu": 0,
+  "nbTotalActivites": 4,
+  "activitesParCategorie": {
+    "atelier": 1,
+    "cours": 3
+  },
+  "declarationValidesEtCompletes": 0,
+  "declarationValidesEtCompletesArchitectes": 0,
+  "declarationValidesEtCompletesPsychologues": 0,
+  "declarationValidesEtCompletesGeologues": 0,
+  "declarationValidesEtCompletesPodiatres": 0,
+  "declarationValidesEtIncompletes": 3,
+  "declarationValidesEtIncompletesArchitectes": 2,
+  "declarationValidesEtIncompletesPsychologues": 0,
+  "declarationValidesEtIncompletesGeologues": 0,
+  "declarationValidesEtIncompletesPodiatres": 1,
+  "declarationPermisInvalide": 1
+}

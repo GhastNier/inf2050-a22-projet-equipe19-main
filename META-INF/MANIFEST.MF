@@ -1,0 +1,2 @@
+Manifest-Version: 1.3-Final
+Main-Class: com.inf2050.equipe19.Main

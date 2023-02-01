@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "numero_de_permis": {
+      "type": "string"
+    },
+    "ordre": {
+      "type": "string"
+    },
+    "cycle": {
+      "type": "string"
+    },
+    "nom" : {
+      "type" : "string"
+    },
+    "prenom" : {
+      "type" : "string"
+    },
+    "sexe" : {
+      "type" : "number"
+    },
+    "heures_transferees_du_cycle_precedent": {
+      "type": "number"
+    },
+    "activites": {
+      "type": "array",
+      "prefixItems": [
+        {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "categorie": {
+              "type": "string"
+            },
+            "heures": {
+              "type": "number"
+            },
+            "date": {
+              "type": "string"
+            }
+          }
+        }
+      ],
+      "minItems": 1
+    }
+  },
+  "required": [
+    "numero_de_permis",
+    "ordre",
+    "cycle",
+    "heures_transferees_du_cycle_precedent",
+    "activites",
+    "nom",
+    "prenom",
+    "sexe"
+  ]
+}

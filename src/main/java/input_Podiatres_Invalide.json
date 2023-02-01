@@ -1,0 +1,24 @@
+{
+  "numero_de_permis": "90001",
+  "nom" : "asdfg",
+  "prenom":"zxcv",
+  "sexe": 2,
+  "ordre": "podiatres",
+  "cycle": "2019-2022",
+  "heures_transferees_du_cycle_precedent": 7,
+  "activites": [
+    {
+      "description": "asdfghjklqwertyuioopzxcvbnm",
+      "categorie": "cours",
+      "heures": 23,
+      "date": "2020-01-07"
+    },
+    {
+      "description": "AAASSSDDDFFFqwertyuiopasdfg",
+      "categorie": "atelier",
+      "heures": 23,
+      "date": "2019-07-07"
+    }
+
+  ]
+}

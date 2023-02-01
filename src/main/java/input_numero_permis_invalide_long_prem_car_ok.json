@@ -1,0 +1,50 @@
+{
+  "numero_de_permis": "AAAAA",
+  "ordre": "psychologues",
+  "cycle": "2021-2023",
+  "activites": [
+    {
+      "description": "horticulture blab blabla",
+      "categorie": "Cheveux",
+      "heures": 5,
+      "date": "2022-01-07"
+    },
+    {
+      "description": "Blablaaadddddddddddddddddddddd",
+      "categorie": "séminaire",
+      "heures": 25,
+      "date": "2022-01-07"
+    },
+    {
+      "description": "Encore du blabladdddddddddd",
+      "categorie": "séminaire",
+      "heures": -5,
+      "date": "01-07-2022"
+    },
+    {
+      "description": "Le blabla n'arrête jamaisddddddd",
+      "categorie": "séminaire",
+      "heures": 5,
+      "date": "2024-01-07"
+    },
+    {
+      "description": "Pas encore tanné du blabladddddddddd",
+      "categorie": "rédaction professionnelle",
+      "heures": 3,
+      "date": "2022-10-22"
+    },
+    {
+      "description": "Participation à un groupe de discussion sur le partage des projets architecturaux de plus de 20 ans",
+      "categorie": "groupe de discussion",
+      "heures": 6,
+      "date": "2022-04-01"
+    },
+    {
+      "description": "Visite d'établissements architecturaux",
+      "categorie": "voyage",
+      "heures": 2,
+      "date": "2034-02-02"
+    }
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "numero_de_permis": "A0001",
+  "nom" : "as1t",
+  "prenom":"bv5",
+  "sexe": 4,
+  "ordre": "architectes",
+  "cycle": "2021-2023",
+  "heures_transferees_du_cycle_precedent": 12,
+  "activites": [
+    {
+      "description": "Cours sur la déontologie",
+      "categorie": "cours",
+      "heures": 5,
+      "date": "2022-01-07"
+    }
+  ]
+}

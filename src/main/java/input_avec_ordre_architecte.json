@@ -1,0 +1,76 @@
+{
+  "numero_de_permis": "A0001",
+  "ordre": "architectes",
+  "cycle": "2021-2023",
+  "heures_transferees_du_cycle_precedent": 12,
+  "activites": [
+    {
+      "description": "Courte description",
+      "categorie": "Patate",
+      "heures": 5,
+      "date": "2022-01-07"
+    },
+    {
+      "description": "Séminaire sur l'architecture contemporaine",
+      "categorie": "séminaire",
+      "heures": 25,
+      "date": "2022-01-07"
+    },
+    {
+      "description": "Monsieur Patate est en Cavale",
+      "categorie": "séminaire",
+      "heures": -5,
+      "date": "01-07-2022"
+    },
+    {
+      "description": "Mx. Patate aime le chocolat",
+      "categorie": "séminaire",
+      "heures": 5,
+      "date": "2024-01-07"
+    },
+    {
+      "description": "Rédaction pour le magazine Architecture moderne",
+      "categorie": "rédaction professionnelle",
+      "heures": 5000,
+      "date": "2022-10-22"
+    },
+    {
+      "description": "Participation à un groupe de discussion sur le partage des projets architecturaux de plus de 20 ans",
+      "categorie": "groupe de discussion",
+      "heures": 48,
+      "date": "2022-04-01"
+    },
+    {
+      "description": "Visite d'établissements architecturaux",
+      "categorie": "voyage",
+      "heures": 2,
+      "date": "2034-02-02"
+    },
+    {
+      "description": "Visite quelconque",
+      "categorie": "projet de recherche",
+      "heures": 100,
+      "date": "2034-02-02"
+    },
+    {
+      "description": "Visite au Saguenay'",
+      "categorie": "groupe de discussion",
+      "heures": 200,
+      "date": "2034-02-02"
+    },
+    {
+      "description": "Visite en Alabama",
+      "categorie": "présentation",
+      "heures": 1000,
+      "date": "2034-02-02"
+    },
+    {
+      "description": "Visite au Botswana",
+      "categorie": "rédaction professionnelle",
+      "heures": 1500,
+      "date": "2034-02-02"
+    }
+  ]
+}
+
+

@@ -1,0 +1,14 @@
+image: maven:3.8.6-openjdk-18
+
+cache:
+  paths:
+  - .m2/repository
+
+build:
+  script: "mvn clean install"
+
+test:
+  script: "mvn test"
+
+verify:
+  script: "mvn verify"

@@ -1,0 +1,10 @@
+/target/
+/.vscode/
+/.idea/libraries/
+/.idea/
+<<<<<<< .gitignore
+/src/main/java/schema_error*
+/src/main/java/resultat.json
+/src/main/java/MessagesErreurException.java
+/src/main/java/com/inf2050/equipe19/MessagesErreurException.java
+>>>>>>> .gitignore

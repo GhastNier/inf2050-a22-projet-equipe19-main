@@ -1,0 +1,17 @@
+{
+  "numero_de_permis": "T0001",
+  "nom" : "asdfg",
+  "prenom":"zxcv",
+  "sexe": 2,
+  "ordre": "architectes",
+  "cycle": "2021-2023",
+  "heures_transferees_du_cycle_precedent": 7,
+  "activites": [
+    {
+      "description": "Cours sur la déontologie",
+      "categorie": "cours",
+      "heures": 5,
+      "date": "2022-01-07"
+    }
+  ]
+}

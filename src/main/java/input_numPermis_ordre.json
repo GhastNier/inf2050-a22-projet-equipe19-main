@@ -1,0 +1,17 @@
+{
+  "numero_de_permis": "AZ9112",
+  "nom" : "asdfg",
+  "prenom":"zxcv",
+  "sexe": 2,
+  "ordre": "géologues",
+  "cycle": "2019-2022",
+  "heures_transferees_du_cycle_precedent": 7,
+  "activites": [
+    {
+      "description": "Cours sur la déontologie",
+      "categorie": "cours",
+      "heures": 5,
+      "date": "2022-01-07"
+    }
+  ]
+}
